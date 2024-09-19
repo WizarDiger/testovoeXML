@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0wGzjnERTrSRvfXztaJjG1fiOGGWTTnW3lDS3eR8qdX1VTLRsi0AuqP73xPuMl4MiqbJb2C8+h5OpOkt1MQ2A==",
+  "success": true,
+  "projectFilePath": "G:\\VisualStudioProjects\\XMLtestovoe\\XMLtestovoe\\XMLtestovoe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WizarDiger\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\WizarDiger\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\WizarDiger\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
